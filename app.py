@@ -55,7 +55,7 @@ if process_urls:
 llm = ChatCohere(
     model="command-r-plus",
     temperature=0,
-    cohere_api_key="BVCDr0O3HySj55efzANnVtavYeEAkn5tZUr6wfyU",
+    cohere_api_key="B.............................U",
     max_tokens=None,
     timeout=None,
     max_retries=2,
