@@ -41,7 +41,10 @@ poetry install
 1. **Run the Streamlit App**
    
 ```sh
-poetry run streamlit run app.py
+poetry run
+```
+```sh
+streamlit run app.py
 ```
 
 2. **Enter URLs**
