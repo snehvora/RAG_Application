@@ -1,4 +1,4 @@
-# RAG Application
+# ArticleInsight
 
 This is a Retrieval-Augmented Generation (RAG) application built with Streamlit and LangChain that allows users to input URLs of articles, process these URLs to extract text, and then create a chatbot that can answer questions based on the processed text.
 
